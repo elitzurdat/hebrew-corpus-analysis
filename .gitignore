@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data files — never commit these
+*.xlsx
+*.csv
+data/
